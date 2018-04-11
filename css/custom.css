@@ -23,3 +23,15 @@
 .dropdown-menu-unad > .dropdown-item:hover {
     color: #212529;
 }
+
+.bg-blue-unad {
+    background-color: #005883 !important;
+}
+
+.bg-dark-unad {
+    background-color: #333333 !important;
+}
+
+.bg-yellow-unad{
+    background-color: #F0B429 !important;
+}
